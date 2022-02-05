@@ -1,0 +1,3 @@
+# How-to-Integrate-Razorpay-Payment-Gateway-in-Laravel
+In this tutorial, We will see how to integrate razorpay payment gateway in laravel. Razorpay is the only payments solution in India that allows businesses to accept, process and disburse payments with its product suite. Razorpay payment gateway accepts all payment modes with domestic and international credit &amp; debit cards, EMIs ( Credit/Debit Cards &amp; Cardless), PayLater, Netbanking from 58 banks, UPI and 8 mobile wallets, Razorpay provides the most extensive set of payment methods.
+### https://techsolutionstuff.com/post/how-to-integrate-razorpay-payment-gateway-in-laravel
